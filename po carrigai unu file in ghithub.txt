@@ -1,0 +1,4 @@
+
+
+- craca "git commit", sciobera su file de carrigai in su server, scrii unu messàgiu e apustis craca "commit"
+- a s'acabada craca "git sync" e apustis "push"
