@@ -8,3 +8,5 @@ po carrigai unu file
 po agiorronai unu file
 
 - una borta sarvau su file chi nc'eus traballau, su file at a tenni unu sinnu arrùbiu, insandus craca su butoneddu a dx de su mouse e sciobera "git commit" e su file bessit birdi, apustis "git sync" e "push".
+
+
