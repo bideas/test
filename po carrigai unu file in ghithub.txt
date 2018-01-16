@@ -2,7 +2,7 @@
 
 po carrigai unu file
 
-- craca "git commit", sciobera su file de carrigai in su server, scrii unu messàgiu e apustis craca "commit"
+- craca "git commit", sciobera su file de carrigai in su server, scrii unu messàgiu (tocat a scriri una noda po fai cumprendi ita eus fatu) e apustis craca "commit"
 - a s'acabada craca "git sync" e apustis "push"
 
 po agiorronai unu file
